@@ -20,7 +20,7 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/spf13/pflag"
+	"github.com/spfl13/pflag"
 )
 
 const (

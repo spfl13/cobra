@@ -23,7 +23,7 @@ import (
 	"strings"
 
 	"github.com/spf13/cobra"
-	"github.com/spf13/pflag"
+	"github.com/spfl13/pflag"
 	"gopkg.in/yaml.v3"
 )
 
