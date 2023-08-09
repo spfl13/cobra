@@ -22,7 +22,7 @@ import (
 	"path/filepath"
 	"testing"
 
-	"github.com/spf13/cobra"
+	"github.com/spfl13/cobra"
 )
 
 func TestGenYamlDoc(t *testing.T) {

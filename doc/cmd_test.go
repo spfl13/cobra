@@ -18,7 +18,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/spf13/cobra"
+	"github.com/spfl13/cobra"
 )
 
 func emptyRun(*cobra.Command, []string) {}
