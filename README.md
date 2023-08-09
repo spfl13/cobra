@@ -89,5 +89,5 @@ go get -u github.com/spfl13/cobra@latest
 Next, include Cobra in your application:
 
 ```go
-import "github.com/spf13/cobra"
+import "github.com/spfl13/cobra"
 ```
